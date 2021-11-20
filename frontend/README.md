@@ -1,29 +1,26 @@
 # frontend
 
-## Project setup
+## Инициализация
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Для компиляции и автообновления странцы при разработке:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Для компиляции и сжатия для сборки:
+
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Для запуска тестов:
+
 ```
 npm run test:unit
-```
 
-### Lints and fixes files
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
